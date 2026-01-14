@@ -123,3 +123,16 @@ Interested in Data Analytics, Business Intelligence, and Software Engineering
 3. Final table `layoffs_final` will be created
 4. Export final table as CSV if needed
 
+
+## 📊 Exploratory Data Analysis (EDA)
+
+After cleaning the dataset, exploratory analysis was performed using SQL to identify:
+
+- Year-wise and monthly layoff trends
+- Most impacted companies
+- Industry-level and country-level distributions
+
+All EDA queries are available in:
+
+📄 `EDA_Script_Queries.sql`
+
