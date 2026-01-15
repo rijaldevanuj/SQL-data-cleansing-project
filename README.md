@@ -1,4 +1,4 @@
-# 📊 SQL Data Cleaning Project — Global Tech Layoffs Dataset
+# 📊 SQL Data Cleaning Project — using Global Tech Layoffs Dataset
 
 ## 📌 Project Overview
 
