@@ -23,7 +23,7 @@ This project demonstrates practical skills required for **Data Analyst and Busin
   - Date
   - Funding stage
   - Country
-  - Funds raised (millions)
+  - Funds raised (in millions)
 
 ### Files in This Repository
 
