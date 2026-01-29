@@ -29,8 +29,8 @@ This project demonstrates practical skills required for **Data Analyst and Busin
 
 | File | Description |
 |--------|------------|
-| `layoffs.csv` | Raw dataset before cleaning |
-| `sql_data_cleaning.sql` | Full MySQL data cleaning script |
+| `layoffs.csv` | Raw dataset |
+| `sql_data_cleaning.sql` | Full MySQL code |
 | `layoffs_final2.csv` | Final cleaned dataset (analysis-ready) |
 
 ---
