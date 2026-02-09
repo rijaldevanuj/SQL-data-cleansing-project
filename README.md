@@ -1,4 +1,4 @@
-# 📊 SQL Data Cleaning Project — using Global Tech Layoffs Dataset
+# 📊 SQL Data Cleaning Project — with Global Tech Layoffs Dataset
 
 ## 📌 Project Overview
 
@@ -110,9 +110,6 @@ Future improvements may include:
 **Devanuj Rijal**  
 B.Tech Student, National Institute of Technology Silchar  
 Interested in Data Analytics, Business Intelligence, and Software Engineering  
-
-🔗 GitHub: *(add your profile link here)*  
-🔗 LinkedIn: *(optional)*
 
 ---
 
