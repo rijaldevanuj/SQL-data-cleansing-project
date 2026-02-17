@@ -1,6 +1,6 @@
 # 📊 SQL Data Cleaning Project — with Global Tech Layoffs Dataset
 
-## 📌 Overview
+## 📌Project Overview
 
 This project focuses on cleaning and preparing a real-world layoffs dataset using **MySQL**.  
 The raw dataset contained duplicate records, inconsistent text formatting, missing values, and improperly typed date fields.  
